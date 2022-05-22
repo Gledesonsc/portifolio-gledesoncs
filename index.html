@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Atualmente sigo me especializando na linguagem 
+    C# e Javascript, além de ter ótimos conhecimentos em 
+    Suporte técnico e montagem Servidores para pequenas 
+    empresas. Busco uma oportunidade na área de 
+    TI ou Técnico de Informática.">
+    <!-- quem que fazer a importaçao do jQuery 3.x jQuery Core 3.6.0 para poder pegar o preload /https://releases.jquery.com/-->
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+
+    <title>Elias Gledeson</title>
+
+    <!--Whatsapp-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!--só consigo fazer a modificaçao com Css se colocar esse link-->
+    <link rel="Stylesheet" type="text/css" href="./CSS/style.css">
+    <!--CDN/https://icons.getbootstrap.com/icons bootstrap 5 /-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap"
+        rel="stylesheet">
+    <!--importe do scripts-->
+    <script type="text/javascript" src="./JAVA.SCRIPT/script.js">
+    </script>
+
+
+</head>
+
+<!--pre carregamento da pagina-->
+
+<div>
+    <!-- início do preloader -->
+    <div id="preloader">
+        <div class="inner">
+            <!-- HTML DA ANIMAÇÃO DO PRELOADER! -->
+            <div class="bolas">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+    <!-- fim do preloader -->
+</div>
+
+
+
+<body>
+    <div id="topo"></div>
+    <header id="" class="cabecalho">
+
+        <!--/IMG Src/ siginifica adicinar uma imagem dentro do manu /alte/ é um texto altenativo caso aimagem nao carrege -->
+        <img src="./IMAGENS/logo.svg" alt="Logo">
+
+        <!-- /Nav/ siginifica menu de navegaçao -->
+        <nav class="cabecalho-menu opacidade">
+
+            <!-- Botoes que sao chamados de ancora licaveis -->
+            <a class="cabecalho-menu-item hoverMebottom button opacidade" target="_blank"
+                href="https://discord.gg/yVnJ9935"> <i class="bi bi-discord"></i> Comunidade Ada</a>
+            <a class="cabecalho-menu-item hoverMebottom button opacidade" target="_blank"
+                href="https://youtu.be/18QLRyboDqY"> <i class="bi bi-film"></i> Tutorial</a>
+            <a class="cabecalho-menu-item hoverMebottom button opacidade" target="_blank" href="./PDF/c2022.pdf"> <i
+                    class="bi bi-bookmarks"></i> Currículo</a>
+            <a class="cabecalho-menu-item hoverMebottom button opacidade" target="_blank"
+                href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/"> <i class="bi bi-linkedin"></i>
+                Linkedin</a>
+
+        </nav>
+    </header>
+
+    <main class="conteudo">
+        <!--1ª Divisao para pagina /Section=sessão/ e /Div=Divisao/ e /H1=titulo é o H2 e o Subititulo/ e /Button=assao via link/-->
+        <section class="conteudo-principal">
+            <div class="conteudo-principal-escrito">
+                <h1 class="conteudo-principal-escrito-titulo">Elias Gledeson</h1>
+                <h2 class="conteudo-principal-escrito-subtitulo">Venha Conhecer Meus Projetos</h2>
+
+                <a target="_blank" href="https://github.com/Gledesonsc"><button
+                        class="conteudo-principal-escrito-botao"> <i class="bi bi-github"></i> GitHub </button></a>
+
+            </div>
+            <img class="conteudo-principal-imagem" src="./IMAGENS/stitch1.png" alt="imagem icon">
+        </section>
+
+        <!-- 2ª Divisao para pagina com Conteudo Secundario /Section=sessão/ e /Div=Divisao/ e /P=paragrafo/ e /strong=granito/ -->
+        <section class="conteudo-secundario">
+            <h3 class="conteudo-secundario-titulo">O que vou mostra para vocês?</h3>
+            <p class="conteudo-secundario-paragrafo">1ª Aplicativo em <strong>Xamarin.Formes</strong></p>
+            <p class="conteudo-secundario-paragrafo">2ª Como Adicionar uma <strong>API</strong> de Buscar Cep</p>
+            <p class="conteudo-secundario-paragrafo">3ª Como Organizar Seu <strong>Github</strong></p>
+            <p class="conteudo-secundario-paragrafo">4ª Projetos Feitos em <strong>Python</strong></p>
+            <p class="conteudo-secundario-paragrafo">5ª Bot Automatizado Feito em <strong>Python</strong></p>
+
+    
+        </section>
+    </main>
+
+
+
+
+    <!--Rodape-->
+    <footer class="rodape">
+        <img class="rodape-imagem" src="./IMAGENS/gled.svg">
+
+
+
+
+        <!--rolagem topo seta suave-->
+        <a id="link-topo" href="#topo">&#9650;
+
+            <div id="up">
+
+            </div>
+        </a>
+
+
+        <!--Whatsapp-->
+        <a class="whatsapp" href="https://web.whatsapp.com/send?phone=5584987777093" target="_blank">
+            <i class="fa fa-whatsapp"></i>
+        </a>
+    </footer>
+
+
+    <!--/script/rolagem topo seta suave-->
+    <script>
+        var $root = $('html, body');
+        $('a[href^="#"]').click(function () {
+            $root.animate({
+                scrollTop: $($.attr(this, 'href')).offset().top
+            }, 1500);
+            return false;
+        });
+    </script>
+
+    <!--/script/rolagem suavizada amostra do botao-->
+    <script>
+        window.onscroll = function () {
+            scroll();
+        }
+
+        function scroll() {
+            var btn = document.getElementById("link-topo")
+            if (document.documentElement.scrollTop > 200) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        }
+    </script>
+</body>
+
+</html>

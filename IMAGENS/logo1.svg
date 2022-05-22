@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="124px" height="124px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 124 124"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="719" font-variant="normal" class="str0" style="fill-rule:nonzero" font-style="normal" font-weight="600">
+	<font-face 
+		font-family="Bookman Old Style">
+		<font-face-src>
+			<font-face-name name="Bookman Old Style Negrito"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="E" horiz-adv-x="719" d="M37.9815 680.73l568.108 0 77.6328 -216.244 -88.459 -31.8287c-14.9953,35.4934 -32.4899,63.9823 -52.4837,85.4667 -19.9938,21.6637 -42.1506,35.9866 -66.3022,43.148 -24.1629,7.00455 -52.4837,10.5012 -84.6374,10.5012l-103.959 0 0 -170.933 33.8236 0c25.3172,0 42.4868,1.83799 51.3069,5.65967 8.83133,3.66478 15.1634,9.67188 18.9963,17.6627 3.83289,8.002 5.82778,23.8267 5.82778,47.6533l0 25.9897 87.9659 0 0 -287.893 -87.9659 0 0 29.4863c0,19.9938 -2.33111,34.6529 -6.99334,43.8205 -4.66223,9.16755 -10.9943,15.4997 -18.9963,18.6601 -8.1589,3.32856 -25.9897,4.99845 -53.638,4.99845l-30.3269 0 0 -156.442c0,-16.4859 0.840546,-26.6509 2.49922,-30.3157 1.50178,-3.49667 4.83034,-6.33211 9.50377,-8.1589 4.66223,-2.0061 14.8272,-3.00355 30.4838,-3.00355l57.1459 0c42.6437,0 78.4621,6.164 107.792,18.3239 29.3182,12.328 55.476,32.1537 78.294,59.3089 22.9973,27.3233 40.6488,59.8132 52.988,97.3016l89.1203 -30.6631 -89.2884 -253.228 -588.438 0 0 93.9618 17.0014 0c22.818,0 38.1496,1.66988 45.9722,4.83034 7.83389,3.32856 13.3367,8.99944 16.4971,17.1583 1.66988,4.83034 2.49922,18.6601 2.49922,41.4893l0 371.185c0,20.1507 -1.33367,33.4873 -4.16911,39.6513 -2.65612,6.164 -6.99334,10.8262 -12.9892,13.8186 -5.82778,3.17166 -17.3264,4.67343 -34.4848,4.67343l-30.3269 0 0 93.9618z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Bookman Old Style";font-variant:normal;font-style:normal;font-weight:600;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:8.54;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str1 {stroke:aqua;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil5 {fill:white}
+    .fil2 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .fil4 {fill:url(#id3)}
+    .fnt0 {font-weight:600;font-size:12.1px;font-family:'Bookman Old Style'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="46.5" y1="64.18" x2="85.6" y2="58.21">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2200FF"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#00F9FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9100FF"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="44.78" y1="38.82" x2="60.94" y2="60.01">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="29.47" y1="44.22" x2="74.61" y2="40.18">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="55.62" y1="58.75" x2="73.05" y2="55.86">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2200FF"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#00F9FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9100FF"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2365937986928">
+   <g>
+    <polygon class="fil0" points="65.22,41.32 79.39,49.42 79.35,65.79 65.17,73.98 51.04,65.77 51.04,49.42 "/>
+    <polygon class="fil0" points="65.31,49.46 58.17,53.53 58.17,61.67 65.17,65.75 72.31,61.68 72.31,53.56 "/>
+    <polygon class="fil0" points="65.26,33.09 43.95,45.35 43.95,69.9 65.17,82.08 86.48,69.86 86.48,45.39 "/>
+    <line class="fil0" x1="65.17" y1="73.98" x2="65.17" y2= "82.08" />
+    <line class="fil0" x1="43.95" y1="45.35" x2="51.04" y2= "49.42" />
+    <line class="fil0" x1="79.39" y1="49.42" x2="86.48" y2= "45.39" />
+   </g>
+   <polygon class="fil1" points="51.04,49.42 65.22,41.32 79.39,49.42 86.48,45.39 65.26,33.09 43.95,45.35 "/>
+   <polygon class="fil2" points="79.35,65.79 65.17,73.98 65.17,82.08 86.48,69.86 86.48,45.39 79.39,49.42 "/>
+   <polygon class="fil3" points="65.17,73.98 51.04,65.77 51.04,49.42 43.95,45.35 43.95,69.9 65.17,82.08 "/>
+   <polygon class="fil4" points="58.17,61.67 65.17,65.75 72.31,61.68 72.31,53.56 65.31,49.46 58.17,53.53 "/>
+  </g>
+  <text x="61.12" y="61.45"  class="fil5 str1 fnt0">E</text>
+ </g>
+</svg>
